@@ -1,5 +1,5 @@
 Hey 👋I am Biswajit Das. 
-Currently learning C++.
+Currently learning Javascript, and dreaming to be a Software Developer. 
 
 <!--
 **BisuD20/BisuD20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
